@@ -5,4 +5,4 @@ let i = 0
 while (i < firstName.length) {
   console.log(`Letter ${i+1} is: ${firstName.charAt(i)}`)
   i++;
-}
+} 
